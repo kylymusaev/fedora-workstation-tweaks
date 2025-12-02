@@ -1,4 +1,4 @@
-Disk configuration
+Disk configuration tweaks
 
 ```
 sudo mkdir -p /mnt/nebula
@@ -12,7 +12,7 @@ sudo chown -R klm:klm /mnt/Andromeda
 ```
 
 
-Standly mode
+Standly mode for a hard drive
 
 ```
 /dev/sdX {

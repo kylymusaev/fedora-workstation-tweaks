@@ -16,7 +16,8 @@ Standly mode for a hard drive
 
 ```
 /dev/sdX {
+    apm = 128
     spindown_time = 120
-    power_mode = standby
+    power_mode = idle
 }
 ```
